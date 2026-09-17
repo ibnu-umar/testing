@@ -1,0 +1,8 @@
+﻿# robots.txt - IbnuMart
+# https://ibnu-umar.github.io/testing/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ibnu-umar.github.io/testing/sitemap.xml
